@@ -1,0 +1,20 @@
+Nome:
+k
+Vidas:
+3
+Pistas:
+6
+Total:
+40
+Bot:
+1 vermelho
+5 branco
+2 branco
+4 branco
+1 verde
+Jogador:
+2 azul
+2 azul
+4 branco
+3 branco
+5 verde
